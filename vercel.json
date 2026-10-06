@@ -1,0 +1,84 @@
+{
+  "redirects": [
+    {
+      "source": "/r/001",
+      "destination": "/unassigned.html",
+      "permanent": false
+    },
+    {
+      "source": "/r/002",
+      "destination": "/unassigned.html",
+      "permanent": false
+    },
+    {
+      "source": "/r/003",
+      "destination": "/unassigned.html",
+      "permanent": false
+    },
+    {
+      "source": "/r/004",
+      "destination": "/unassigned.html",
+      "permanent": false
+    },
+    {
+      "source": "/r/005",
+      "destination": "/unassigned.html",
+      "permanent": false
+    },
+    {
+      "source": "/r/006",
+      "destination": "/unassigned.html",
+      "permanent": false
+    },
+    {
+      "source": "/r/007",
+      "destination": "/unassigned.html",
+      "permanent": false
+    },
+    {
+      "source": "/r/008",
+      "destination": "/unassigned.html",
+      "permanent": false
+    },
+    {
+      "source": "/r/009",
+      "destination": "/unassigned.html",
+      "permanent": false
+    },
+    {
+      "source": "/r/010",
+      "destination": "/unassigned.html",
+      "permanent": false
+    },
+    {
+      "source": "/r/011",
+      "destination": "/unassigned.html",
+      "permanent": false
+    },
+    {
+      "source": "/r/012",
+      "destination": "/unassigned.html",
+      "permanent": false
+    },
+    {
+      "source": "/r/013",
+      "destination": "/unassigned.html",
+      "permanent": false
+    },
+    {
+      "source": "/r/014",
+      "destination": "/unassigned.html",
+      "permanent": false
+    },
+    {
+      "source": "/r/015",
+      "destination": "/unassigned.html",
+      "permanent": false
+    },
+    {
+      "source": "/r/:id",
+      "destination": "/unassigned.html",
+      "permanent": false
+    }
+  ]
+}
