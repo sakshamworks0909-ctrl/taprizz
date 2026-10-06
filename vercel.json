@@ -76,6 +76,11 @@
       "permanent": false
     },
     {
+      "source": "/r/101",
+      "destination": "https://claude.ai/new",
+      "permanent": false
+    },
+    {
       "source": "/r/:id",
       "destination": "/unassigned.html",
       "permanent": false
