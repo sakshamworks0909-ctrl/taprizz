@@ -70,14 +70,10 @@
       "destination": "/unassigned.html",
       "permanent": false
     },
+
     {
-      "source": "/r/102"
+      "source": "/r/102",
       "destination": "https://www.instagram.com",
-      "permanent": false
-    },
-    {
-      "source": "/r/103",
-      "destination": "https://g.page/r/CU7legKaf4O0EBM/review",
       "permanent": false
     },
     {
