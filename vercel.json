@@ -70,15 +70,34 @@
       "destination": "/unassigned.html",
       "permanent": false
     },
-
     {
-      "source": "/r/102",
-      "destination": "https://www.instagram.com",
+      "source": "/r/015",
+      "destination": "/unassigned.html",
       "permanent": false
     },
     {
       "source": "/r/101",
       "destination": "https://tinyurl.com/Ngayurveda",
+      "permanent": false
+    },
+    {
+      "source": "/r/102",
+      "destination": "https://share.google/CPzWwq2HCXLEEhfRR",
+      "permanent": false
+    },
+    {
+      "source": "/r/103",
+      "destination": "/unassigned.html",
+      "permanent": false
+    },
+    {
+      "source": "/r/104",
+      "destination": "/unassigned.html",
+      "permanent": false
+    },
+    {
+      "source": "/r/105",
+      "destination": "/unassigned.html",
       "permanent": false
     },
     {
